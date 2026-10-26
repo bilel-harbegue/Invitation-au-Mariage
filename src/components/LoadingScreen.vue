@@ -234,7 +234,7 @@
           <span
             class="relative -translate-y-[2px] font-serif text-[30px] italic leading-none text-[#8e6937] sm:text-[36px]"
           >
-            Y
+            F
           </span>
 
           <!-- & -->
@@ -248,7 +248,7 @@
           <span
             class="absolute right-[22px] top-[14px] font-serif text-[12px] italic text-[#9b753f]/80 sm:right-[26px] sm:top-[16px]"
           >
-            R
+            F
           </span>
 
         </div>
