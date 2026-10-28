@@ -244,8 +244,8 @@
           >
             {{
               language === 'ar'
-                ? 'تتشرف عائلة الفولاني وعائلة الفلتانية'
-                : 'La famille el fouleny et la famille el faltaniya'
+                ? 'تتشرف عائلة العريس وعائلة العروس'
+                : 'La famille du marié et la famille de la mariée.'
             }}
           </p>
 
@@ -313,7 +313,7 @@
               <h3
                 class="whitespace-nowrap font-serif text-[clamp(2.1rem,5vw,3.6rem)] font-medium leading-none text-[#30241c] max-[768px]:text-[2.7rem] max-[480px]:text-[2rem] max-[380px]:text-[1.8rem]"
               >
-                {{ language === 'ar' ? 'فولان' : 'foulen' }}
+                {{ language === 'ar' ? 'العريس' : 'Le marié' }}
               </h3>
             </div>
 
@@ -333,7 +333,7 @@
               <h3
                 class="whitespace-nowrap font-serif text-[clamp(2.1rem,5vw,3.6rem)] font-medium leading-none text-[#30241c] max-[768px]:text-[2.7rem] max-[480px]:text-[2rem] max-[380px]:text-[1.8rem]"
               >
-                {{ language === 'ar' ? 'فلتانة' : 'faltena' }}
+                {{ language === 'ar' ? 'العروس' : 'La mariée' }}
               </h3>
             </div>
 

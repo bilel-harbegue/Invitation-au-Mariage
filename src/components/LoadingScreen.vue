@@ -230,11 +230,11 @@
             class="absolute left-1/2 top-[9px] h-2 w-2 -translate-x-1/2 rotate-45 border border-[#a9824a]/60 bg-[#fffdf8]"
           ></div>
 
-          <!-- حرف Y -->
+          <!-- حرف A -->
           <span
             class="relative -translate-y-[2px] font-serif text-[30px] italic leading-none text-[#8e6937] sm:text-[36px]"
           >
-            F
+            A
           </span>
 
           <!-- & -->
@@ -244,11 +244,11 @@
             &amp;
           </span>
 
-          <!-- حرف R -->
+          <!-- حرف a -->
           <span
             class="absolute right-[22px] top-[14px] font-serif text-[12px] italic text-[#9b753f]/80 sm:right-[26px] sm:top-[16px]"
           >
-            F
+            A
           </span>
 
         </div>
@@ -496,8 +496,8 @@ const content = computed(() => {
 
     return {
       eyebrow: 'زفافنا',
-      groom: 'فولان',
-      bride: 'فلتانة',
+      groom: 'العريس',
+      bride: 'العروس',
       subtitle: 'دعوتكم لمشاركتنا فرحتنا',
       loading: 'جاري فتح الدعوة',
     }
@@ -511,8 +511,8 @@ const content = computed(() => {
 
   return {
     eyebrow: 'NOTRE MARIAGE',
-    groom: 'foulen',
-    bride: 'faltena',
+    groom: 'Le marié',
+    bride: 'La mariée',
     subtitle: 'NOTRE INVITATION',
     loading: 'OUVERTURE DE VOTRE INVITATION',
   }

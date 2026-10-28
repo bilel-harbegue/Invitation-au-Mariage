@@ -585,9 +585,9 @@ const content = computed(() => {
       invitation:
         'يسعدنا دعوتكم لمشاركتنا فرحة زفافنا',
 
-      groom: 'فولان',
+      groom: 'العريس',
 
-      bride: 'فلتانة',
+      bride: 'العروس',
 
       date1: '15 جويلية 2030',
 
@@ -608,9 +608,9 @@ const content = computed(() => {
     invitation:
       'ONT LE PLAISIR DE VOUS INVITER À LEUR MARIAGE',
 
-    groom: 'foulen',
+    groom: 'Le marié',
 
-    bride: 'faltena',
+    bride: 'La mariée',
 
     date1: '15 JUILLET 2030',
 
